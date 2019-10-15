@@ -1,0 +1,136 @@
+[
+    {
+        "id": "7a5e9510-01a5-48c0-b6d4-f812c2faf898",
+        "name": "2 list entities",
+        "description": "",
+        "culture": "en-us",
+        "usageScenario": "",
+        "domain": "",
+        "versionsCount": 1,
+        "createdDateTime": "2019-09-27T21:40:10Z",
+        "endpoints": {
+            "PRODUCTION": {
+                "versionId": "0.1",
+                "directVersionPublish": false,
+                "endpointUrl": "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/7a5e9510-01a5-48c0-b6d4-f812c2faf898",
+                "isStaging": false,
+                "assignedEndpointKey": null,
+                "region": null,
+                "endpointRegion": "westus",
+                "publishedDateTime": "2019-09-27T21:42:47Z",
+                "failedRegions": null
+            }
+        },
+        "endpointHitsCount": 3,
+        "activeVersion": "0.1",
+        "ownerEmail": null,
+        "tokenizerVersion": "1.0.0"
+    },
+    {
+        "id": "98699bd9-620f-4e45-8b9d-95d9afe24a28",
+        "name": "Travel Agent - Sample - Batch Add Test",
+        "description": "",
+        "culture": "en-us",
+        "usageScenario": "",
+        "domain": "",
+        "versionsCount": 1,
+        "createdDateTime": "2019-09-27T14:28:37Z",
+        "endpoints": {
+            "PRODUCTION": {
+                "versionId": "0.1",
+                "directVersionPublish": false,
+                "endpointUrl": "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/98699bd9-620f-4e45-8b9d-95d9afe24a28",
+                "isStaging": false,
+                "assignedEndpointKey": null,
+                "region": null,
+                "endpointRegion": "westus",
+                "publishedDateTime": "2019-09-29T17:56:01Z",
+                "failedRegions": null
+            }
+        },
+        "endpointHitsCount": 17,
+        "activeVersion": "0.1",
+        "ownerEmail": null,
+        "tokenizerVersion": "1.0.0"
+    },
+    {
+        "id": "c1431ed0-0c5d-47aa-b09f-bd366d5cdde0",
+        "name": "HumanResources",
+        "description": "Tutorials use Human resources (HR) domain.",
+        "culture": "en-us",
+        "usageScenario": "",
+        "domain": "",
+        "versionsCount": 2,
+        "createdDateTime": "2019-09-27T14:27:43Z",
+        "endpoints": {
+            "PRODUCTION": {
+                "versionId": "patterns-any",
+                "directVersionPublish": false,
+                "endpointUrl": "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/c1431ed0-0c5d-47aa-b09f-bd366d5cdde0",
+                "isStaging": false,
+                "assignedEndpointKey": null,
+                "region": null,
+                "endpointRegion": "westus",
+                "publishedDateTime": "2019-10-07T22:53:34Z",
+                "failedRegions": null
+            },
+            "STAGING": {
+                "versionId": "roles",
+                "directVersionPublish": false,
+                "endpointUrl": "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/c1431ed0-0c5d-47aa-b09f-bd366d5cdde0",
+                "isStaging": true,
+                "assignedEndpointKey": null,
+                "region": null,
+                "endpointRegion": "westus",
+                "publishedDateTime": "2019-09-27T16:19:20Z",
+                "failedRegions": null
+            }
+        },
+        "endpointHitsCount": 77,
+        "activeVersion": "patterns-any",
+        "ownerEmail": null,
+        "tokenizerVersion": "1.0.0"
+    },
+    {
+        "id": "8f6d346c-58f9-4783-87b3-a337bbefa790",
+        "name": "home automation",
+        "description": "",
+        "culture": "en-us",
+        "usageScenario": "",
+        "domain": "",
+        "versionsCount": 1,
+        "createdDateTime": "2019-09-26T22:57:02Z",
+        "endpoints": {
+            "PRODUCTION": {
+                "versionId": "0.1",
+                "directVersionPublish": false,
+                "endpointUrl": "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/8f6d346c-58f9-4783-87b3-a337bbefa790",
+                "isStaging": false,
+                "assignedEndpointKey": null,
+                "region": null,
+                "endpointRegion": "westus",
+                "publishedDateTime": "2019-09-27T15:04:53Z",
+                "failedRegions": null
+            }
+        },
+        "endpointHitsCount": 7,
+        "activeVersion": "0.1",
+        "ownerEmail": null,
+        "tokenizerVersion": "1.0.0"
+    },
+    {
+        "id": "62ccbaef-6d9f-46e3-bf84-cf6195279b73",
+        "name": "new app",
+        "description": "",
+        "culture": "en-us",
+        "usageScenario": "",
+        "domain": "",
+        "versionsCount": 1,
+        "createdDateTime": "2019-09-24T17:09:48Z",
+        "endpoints": {},
+        "endpointHitsCount": 0,
+        "activeVersion": "0.1",
+        "ownerEmail": null,
+        "tokenizerVersion": "1.0.0"
+    }
+]
